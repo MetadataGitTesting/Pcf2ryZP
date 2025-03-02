@@ -1,0 +1,51 @@
+name: milan.buckridge
+description: heuristic
+version: 0.0.1
+author: eqykqd1o.kubvv3lf@qtrqar9k.com
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: milanbuckridge
+  parentArtefactID: team1740946881660
+  buildSystem: maven
+  author: null
+  createdAt: '2025-03-02 20:21:52'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2025-03-02 20:21:53'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlOrchestratorPipelines: {}
+sqlBusinessApps: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2025-03-02T20:21:53.946233Z'
+  name: plibMaven
+  version: 8.9.0-SNAPSHOT
+  id: '1053084040'
+  createdAt: '2025-03-02T20:21:53.946233Z'
+  type: plibMaven
+projectDependencies: {}
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
